@@ -86,7 +86,7 @@ commands_dict = OrderedDict([
     )),
     ('thank', CommandInfo(
         'pip._internal.commands.thank', 'ThankCommand',
-        'Print info for thanking/donating to packages.',
+        'Print info for thanking/donating to a package.',
     )),
     ('debug', CommandInfo(
         'pip._internal.commands.debug', 'DebugCommand',
